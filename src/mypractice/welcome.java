@@ -12,6 +12,8 @@ System.out.println("Testing Poll SCM for the fist time");
 System.out.println("$100usd discount on iPhone 15Pro Max this festival");
 System.out.println("Hurry this offer is limited");
 
+System.out.println("welcome to learning technology");
+
 	}
 
 }
